@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_name" >
+        <item>Uzbek</item>
+        <item>Russia</item>
+        <item>English</item>
+    </string-array>
+</resources>

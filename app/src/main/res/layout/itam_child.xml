@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:text="@string/app_name"
+    android:textSize="20sp"
+     android:padding="5dp"
+    android:id="@+id/item_child_tv"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+</TextView>
